@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "ds_input",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AmazonS31",
