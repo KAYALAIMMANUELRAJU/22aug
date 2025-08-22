@@ -29,7 +29,7 @@
 					"sink": {
 						"type": "DelimitedTextSink",
 						"storeSettings": {
-							"type": "GoogleCloudStorageWriteSettings"
+							"type": "AzureBlobFSWriteSettings"
 						},
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
@@ -55,7 +55,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "DS_Output_GCP2",
+						"referenceName": "ds_output",
 						"type": "DatasetReference"
 					}
 				]
