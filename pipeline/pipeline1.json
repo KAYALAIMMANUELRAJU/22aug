@@ -55,7 +55,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ds_output_gc2",
+						"referenceName": "DS_Output_GCP2",
 						"type": "DatasetReference"
 					}
 				]
